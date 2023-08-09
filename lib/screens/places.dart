@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'package:favorite_places/screens/add_place.dart';
-import 'package:favorite_places/screens/widgets/places_list.dart';
+import 'package:favorite_places/widgets/places_list.dart';
 import 'package:favorite_places/providers/user_places.dart';
 
 class PlacesScreen extends ConsumerWidget {
